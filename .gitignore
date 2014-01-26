@@ -1,3 +1,6 @@
+# Ignore all python files
+*.py
+
 *.py[cod]
 
 # C extensions
