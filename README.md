@@ -1,7 +1,7 @@
 euler
 =====
 
-Solved Project Euler Problems.
+Solved [Project Euler](http://projecteuler.net/) problems.
 
 The python solutions for each problem are encrypted with the answer.
 
